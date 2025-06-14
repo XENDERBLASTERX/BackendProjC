@@ -208,25 +208,6 @@ text
 - Charts for response trends (add with Chart.js, Recharts, or Victory)
 - Live presence and activity logs
 - More features coming soon!
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
-
----
-
-## 🙋‍♂️ Contact
-
-For support or collaboration, open an issue or email [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
 > Made with 💜 by [Your Name](https://github.com/XENDERBLASTERX)
